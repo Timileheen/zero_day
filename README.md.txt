@@ -1,1 +1,0 @@
-This is the first project on the full stack engineering course on alx
